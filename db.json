@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "price": 2001
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "price": 2002
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "price": 2003
+    },
+    {
+      "id": 4,
+      "title": "Product 4",
+      "price": 2004
+    }
+  ],
+  "cart": [
+    {
+      "id": 3,
+      "title": "Product 3",
+      "price": 2003
+    },
+    {
+      "id": 4,
+      "title": "Product 4",
+      "price": 2004
+    }
+  ]
+}
